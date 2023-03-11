@@ -23,3 +23,11 @@ output of grep and return a single exit status of whether the pattern is found i
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/68884486/224476590-6075b260-54ac-435a-a468-4f12b331724c.png">
 
 7. After running this file for all examples given in the lab task, we see that all of them are running well.
+
+8. Result presentation:
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/68884486/224479295-82cb917d-3720-4b4c-992e-adc87d7fcbb1.png">
+<img width="890" alt="image" src="https://user-images.githubusercontent.com/68884486/224479324-7ebe7588-a848-4bab-8e9b-1e82a36ef4bd.png">
+<img width="901" alt="image" src="https://user-images.githubusercontent.com/68884486/224479347-ed2371d0-671d-40d2-bfe5-2e3a7c8125bd.png">
+<img width="895" alt="image" src="https://user-images.githubusercontent.com/68884486/224507481-c10c0715-09a4-413b-936b-7032cd999cb7.png">
+<img width="862" alt="image" src="https://user-images.githubusercontent.com/68884486/224507499-7b69c6dd-e50a-4af1-9927-d17558299ec0.png">
+<img width="843" alt="image" src="https://user-images.githubusercontent.com/68884486/224507507-782abfac-b885-49ac-a8bd-ada50bd6a2de.png">
